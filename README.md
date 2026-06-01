@@ -1,7 +1,7 @@
 # Lab 7 — Galerie de Stars : RecyclerView, Animations et Filtrage
 
 **Auteure : Nisrine Gorfti — EMSI**
-**Date : 2026-06-01**
+
 
 ## Description
 Application Android affichant une galerie de célébrités avec RecyclerView, animations d'entrée et filtrage par SearchView.
