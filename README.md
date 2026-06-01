@@ -29,3 +29,4 @@ app/src/main/
 implementation 'androidx.recyclerview:recyclerview:1.3.0'
 implementation 'androidx.cardview:cardview:1.0.0'
 ```
+<img width="252" height="531" alt="image" src="https://github.com/user-attachments/assets/3e9cdb54-8cc1-4aca-8e8d-26aea5fea821" />
